@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="new_game">New Game</string>
+    <string name="reset_game">Reset Score</string>
+    <string name="x_turn">X Turn</string>
+    <string name="o_turn">O Turn</string>
+    <string name="x_win">X Wins</string>
+    <string name="o_win">O Wins</string>
+    <string name="tie_game">Tie game</string>
+    <string name="space">   </string>
+    <string name="title_activity_startside">Startside</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
